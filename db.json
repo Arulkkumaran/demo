@@ -8,7 +8,7 @@
       "investedamount": "$17,952.07",
       "portfolio": 22.06,
       "unrealizedpl": "$3,676.93",
-      "return": "20.48%"
+      "returns": "20.48%"
     },
     {
       "script": "MFEM",
@@ -18,7 +18,7 @@
       "investedamount": "$4,725.84",
       "portfolio": 5.81,
       "unrealizedpl": "$146.16",
-      "return": "3.09%"
+      "returns": "3.09%"
     },
     {
       "script": "JPEM",
@@ -28,7 +28,7 @@
       "investedamount": "$18,597.60",
       "portfolio": 22.86,
       "unrealizedpl": "-$1,377.60",
-      "return": "-7.41%"
+      "returns": "-7.41%"
     },
     {
       "script": "KEMQ",
@@ -38,7 +38,7 @@
       "investedamount": "$17,811.04",
       "portfolio": 21.89,
       "unrealizedpl": "-$1,470.64",
-      "return": "-8.26%"
+      "returns": "-8.26%"
     },
     {
       "script": "KLDW",
@@ -48,7 +48,7 @@
       "investedamount": "$13,765.36",
       "portfolio": 16.92,
       "unrealizedpl": "$3441.34",
-      "return": "25.00%"
+      "returns": "25.00%"
     },
     {
       "script": "KOIN",
@@ -58,7 +58,7 @@
       "investedamount": "$8,509.00",
       "portfolio": 10.46,
       "unrealizedpl": "$-",
-      "return": "0.00%"
+      "returns": "0.00%"
     }
   ]
 }
